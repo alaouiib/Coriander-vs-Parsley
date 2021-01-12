@@ -13,3 +13,4 @@ Web application (📱 Mobile friendly) that uses a pre-trained NN model (MobileN
 * The classification model is hosted freely on google servers.
 * The web application is created using p5.js and hosted freely on p5js servers. 
 
+**Important**: Data is not big and classes are unbalanced, this is a simple try/proof of concept with a pretrained model, I am sure there is a large margin of improvement through the use of class balancing, fine-tuning with deeper nets or just sampling (i.e: data augmentation) more from the parlsey class.
